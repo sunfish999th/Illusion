@@ -1,0 +1,6 @@
+{
+  "name": "NuvStore - Simulator & Merch Manager",
+  "description": "Simulador de llaveros de acrílico, calculador de costos en Wilson/Soles, creador de mockups para TikTok y gestor de preventas para fandoms olvidados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
